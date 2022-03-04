@@ -8,7 +8,7 @@ TOL = 120 / WEEK
 
 
 def test_voting_powers(web3, chain, accounts, yfi, ve_yfi, ve_yfi_rewards):
-    """
+    r"""
     Test voting power in the following scenario.
     Alice:
     ~~~~~~~
